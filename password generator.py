@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+from random import *
 
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@£$%^&*().,?0123456789"
 
